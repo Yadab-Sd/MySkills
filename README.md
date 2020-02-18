@@ -4,8 +4,8 @@
 NuxtJS (https://nuxtjs.org/)
 ======
 * VueJS Framework
-* Benifits : 
-* Topics:
+* Benifits : Vuetify, Bootstrap Vue, Element UI
+* Topics: 
 
 Backend: Fastify, Express
 =======
